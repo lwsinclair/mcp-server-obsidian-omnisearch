@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anpigon-mcp-server-obsidian-omnisearch-badge.png)](https://mseep.ai/app/anpigon-mcp-server-obsidian-omnisearch)
+
 # MCP Server Obsidian Omnisearch
 
 [![smithery badge](https://smithery.ai/badge/@anpigon/mcp-server-obsidian-omnisearch)](https://smithery.ai/server/@anpigon/mcp-server-obsidian-omnisearch)
